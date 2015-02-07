@@ -1,0 +1,28 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Don McCurdy
+tagline:             
+description:         'Thoughts about software development, technology, and social impact.'
+url:                 https://www.donmccurdy.com
+baseurl:             /
+paginate:            5
+
+# About/contact
+author:
+  name:              Don McCurdy
+  handle:            '@don_mccurdy'
+  url:               https://twitter.com/don_mccurdy
+  github:            https://github.com/donmccurdy
+  email:             dm@donmccurdy.com
+
+# Custom vars
+version:             1.0.0
