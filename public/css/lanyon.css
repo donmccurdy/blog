@@ -367,7 +367,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid #eee;
+  /*border: 1px solid #eee;*/
 }
 .pagination-item:first-child {
   margin-bottom: -1px;

@@ -14,7 +14,7 @@ tagline:
 description:         'Thoughts about software development, technology, and social impact.'
 url:                 https://www.donmccurdy.com
 baseurl:             /
-paginate:            5
+paginate:            3
 
 # About/contact
 author:
