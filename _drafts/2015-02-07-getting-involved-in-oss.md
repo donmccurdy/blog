@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Getting Involved in Open Source Software
+categories:
+- Developer
+- Open Source
 ---
-
-*Where to find projects that need help, and how to contribute.*
 
 I’ll start by saying that I am not so much writing this as someone who is prolifically involved in the open source community as someone who is *getting better* and finding enjoyable ways to contribute, which is probably more important.
 
