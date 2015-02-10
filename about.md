@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Software Developer with FindTheBest, in Santa Barbara, California. Studied Computer Science at Washington University in St. Louis. 
+Software Developer with FindTheBest, in Santa Barbara. Studied Computer Science at Washington University in St. Louis.
 
 I also exist at various other places on the internet:
 
