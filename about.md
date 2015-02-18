@@ -9,7 +9,7 @@ I also exist at various other places on the internet:
 
 * Twitter — [@don_mccurdy](https://twitter.com/don_mccurdy)
 * GitHub — [@donmccurdy](https://github.com/donmccurdy)
-* LinkedIn — [/donmccurdy](https://www.linkedin.com/in/donmccurdy)
+* LinkedIn — [/in/donmccurdy](https://www.linkedin.com/in/donmccurdy)
 
 If you'd like to get in touch, please email me at **dm@donmccurdy.com**.
 
