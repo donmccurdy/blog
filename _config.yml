@@ -24,5 +24,9 @@ author:
   github:            https://github.com/donmccurdy
   email:             dm@donmccurdy.com
 
+# Formatting
+redcarpet:
+  extensions:        ['smart', 'strikethrough', 'tables'] 
+
 # Custom vars
 version:             1.0.0
