@@ -11,6 +11,9 @@ And yeah. It does, assuming you have a large enough screen for a convincing fiel
 
 A $25 Google Cardboard kit, or the materials to make one. If you decide to buy, [DODOcase](http://www.dodocase.com/products/google-cardboard-vr-goggle-toolkit) is a good option because they (1) explicitly fit iPhone 6/6+ and (2) include a little cardboard spacer to help with the 5/5S.
 
+![My DODOcase, after setup.](/public/media/2015/cardboard.jpeg)
+*My DODOcase, after setup.*
+
 If you'd rather make things yourself, start with [Google's instructions](https://www.google.com/get/cardboard/get-cardboard.html#build-it).
 
 * The lenses (biconvex, 45mm focal distance) are the least convenient part. A pair might cost $2-5 on eBay or $10 on Amazon.
@@ -20,7 +23,14 @@ If you'd rather make things yourself, start with [Google's instructions](https:/
 
 Hopefully we'll see more options on the App Store before too long, but there are definitely a few worth trying now. My favorites:
 
-* [VRSE](http://vrse.com/) — Selection of VR films from Sundance Film Festival. Each film is a 1GB download, but they're also the best looking VR films you're going to find any time soon.
-* [Volvo Reality](http://www.volvocars.com/us/about/our-stories/google-cardboard) — Okay, this one might be an ad for the Volvo XC90. Whatever. The scenery is lovely, it's a neat experience, and more content will be coming out episodically.
+[VRSE](http://vrse.com/) — Selection of VR films from Sundance Film Festival. One, *Clouds Over Sidra*, was created with the UN and gives a very unique look at a Syrian refugee camp.
+
+![A scene from "Clouds Over Sidra", one of the films in VRSE.](/public/media/2015/clouds-over-sidra.png)
+*A scene from* Clouds Over Sidra, *one of the films in VRSE.*
+
+[Volvo Reality](http://www.volvocars.com/us/about/our-stories/google-cardboard) — Okay, this one might be an ad for the Volvo XC90. Whatever. The scenery is lovely, it's a neat experience, and more content will be coming out episodically.
+
+![Volvo Reality](/public/media/2015/volvo.png)
+*Volvo Reality: a quick test drive to a weekend getaway.*
 
 You can also find WebVR (WebGL-based VR) content online, most of which should work equally well on iOS or Android. Google posted several interesting examples on the [Chrome Experiments](http://vr.chromeexperiments.com/) page.
