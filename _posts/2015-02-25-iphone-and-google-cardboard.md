@@ -21,6 +21,6 @@ If you'd rather make things yourself, start with [Google's instructions](https:/
 Hopefully we'll see more options on the App Store before too long, but there are definitely a few worth trying now. My favorites:
 
 * [VRSE](http://vrse.com/) — Selection of VR films from Sundance Film Festival. Each film is a 1GB download, but they're also the best looking VR films you're going to find any time soon.
-* [Volvo Reality](http://www.volvocars.com/us/about/our-stories/google-cardboard) — Okay, it might be an ad for the Volvo XC90. Whatever. The scenery is lovely, it's a neat experience, and more content will be coming out episodically.
+* [Volvo Reality](http://www.volvocars.com/us/about/our-stories/google-cardboard) — Okay, this one might be an ad for the Volvo XC90. Whatever. The scenery is lovely, it's a neat experience, and more content will be coming out episodically.
 
 You can also find WebVR (WebGL-based VR) content online, most of which should work equally well on iOS or Android. Google posted several interesting examples on the [Chrome Experiments](http://vr.chromeexperiments.com/) page.
