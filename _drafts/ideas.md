@@ -16,3 +16,4 @@ title: Post Ideas
 - [ ] portable work environment (dropbox, symlinks, zsh)
 - [ ] where are WebRTC data channels?
 - [ ] setting up SSL with github pages [issues]
+- [ ] how to ask for help, for exceptions
