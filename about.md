@@ -15,7 +15,7 @@ I also exist at various other places on the Internet:
 * LinkedIn — [/in/donmccurdy](https://www.linkedin.com/in/donmccurdy)
 * Resume — <a href="https://dl.dropboxusercontent.com/u/42869844/LTS/Don%20McCurdy%20-%20Resume%202015.pdf" rel="nofollow">PDF</a>
 
-If you'd like to get in touch, please email me at [dm@donmccurdy.com](mailto:dm@donmccurdy.com).
+For a list of my work and involvement, see the [Projects](/projects) page. If you'd like to get in touch, please email me at [dm@donmccurdy.com](mailto:dm@donmccurdy.com).
 
 Thanks for reading!
 

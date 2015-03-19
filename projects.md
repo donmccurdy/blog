@@ -9,7 +9,7 @@ title: Projects
 
 ## Personal
 
-[Powerline](https://github.com/donmccurdy/powerline) — *In Progress*. Web application for managing Twitter lists quickly through a clean and simple interface. The project began out of frustration with available tools for sorting my Twitter contacts by different interests, and has gradually evolved into a full list-management application.
+[Powerline.io](https://github.com/donmccurdy/powerline) — *In Progress*. Web application for managing Twitter lists quickly through a clean and simple interface. The project began out of frustration with available tools for sorting my Twitter contacts by different interests, and has gradually evolved into a full list-management application.
 
 [Input Tokenizer](https://github.com/donmccurdy/input-tokenizer) — jQuery plugin that allows a user to type keywords, which will be broken up into tags and displayed similarly to tagging a post on Tumblr or Stack-Overflow.
 
