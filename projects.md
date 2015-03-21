@@ -13,7 +13,13 @@ title: Projects
 
 [Input Tokenizer](https://github.com/donmccurdy/input-tokenizer) — jQuery plugin that allows a user to type keywords, which will be broken up into tags and displayed similarly to tagging a post on Tumblr or Stack-Overflow.
 
+*Input Tokenizer:*
+![Screenshot of Input Tokenizer](/public/media/projects/input-tokenizer.png)
+
 [TagSelect.js](https://github.com/FindTheBest/TagSelect.js) — Modernized, jQuery-free version of my *Input Tokenizer* project. Uses new HTML5 features to provide native-feeling cursor interactions and copy/paste support, at the expense of compatibility with older browsers.
+
+*TagSelect.js:*
+![Screenshot of TagSelect.js](/public/media/projects/tag-select.png)
 
 [ASG.js](https://github.com/FindTheBest/asg.js) — Lightweight autocomplete plugin for jQuery, which supports both local and remote option sources. A variety of other options are available.
 
@@ -23,9 +29,12 @@ title: Projects
 
 ## Academic
 
-[GeneAtlas](http://www.geneatlas.org/gene/main.jsp) — While at Washington University in St. Louis, I was lucky enough to become involved in the GeneAtlas project under Dr. Tao Ju. With other members of the GeneAtlas team, we developed processes for collecting gene expression pattern data, visualizing it, and querying against particular genes and regions of interest. My role was focused on developing visualization and exploration tools, for which I built a Java-based web application running on OpenGL bindings.
+[GeneAtlas Selection/Query Tool](http://www.geneatlas.org/gene/main.jsp) — While at Washington University in St. Louis, I was lucky enough to become involved in the GeneAtlas project under Dr. Tao Ju. With other members of the GeneAtlas team, we developed processes for collecting gene expression pattern data, visualizing it, and querying against particular genes and regions of interest. My role was focused on developing visualization and exploration tools, for which I built a Java-based web application running on OpenGL bindings.
 
-[Convex Hull](https://github.com/donmccurdy/convex-hull) — Demo of MergeHull algorithm for the convex hull problem. Think of this as computing the shape that a rubber band would take when stretched around a random cluster of thumbtacks on a board.
+[Convex Hull Demo](https://github.com/donmccurdy/convex-hull) — Illustration of a MergeHull algorithm for the convex hull problem. Think of this as computing the shape that a rubber band would take when stretched around a random cluster of thumbtacks on a board.
+
+*Convex Hull Demo:*
+![Screenshot of Convex Hull Demo](/public/media/projects/merge-hull.gif)
 
 ## Other Contributions
 
