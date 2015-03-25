@@ -19,7 +19,7 @@ title: Projects
 [TagSelect.js](https://github.com/FindTheBest/TagSelect.js) — Modernized, jQuery-free version of my *Input Tokenizer* project. Uses new HTML5 features to provide native-feeling cursor interactions and copy/paste support, at the expense of compatibility with older browsers.
 
 *TagSelect.js:*
-![Screenshot of TagSelect.js](/public/media/projects/tag-select.png)
+![Screenshot of TagSelect.js](/public/media/projects/tag-select.gif)
 
 [ASG.js](https://github.com/FindTheBest/asg.js) — Lightweight autocomplete plugin for jQuery, which supports both local and remote option sources. A variety of other options are available.
 
