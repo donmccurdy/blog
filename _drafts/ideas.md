@@ -12,8 +12,8 @@ title: Post Ideas
 - [ ] research, startups, work environment
 - [ ] what to try after college (as a dev)
 - [ ] what to try after college (as a human)
-- [ ] portable work environment (dropbox, symlinks, zsh)
 - [ ] where are WebRTC data channels?
 - [ ] setting up SSL with github pages [issues]
-- [ ] how to ask for help, for exceptions
 - [ ] webgl / map
+- [ ] how to ask for help, for exceptions
+- [ ] something something entitlement
