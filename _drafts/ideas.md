@@ -17,3 +17,4 @@ title: Post Ideas
 - [ ] webgl / map
 - [ ] how to ask for help, for exceptions
 - [ ] something something entitlement
+- [ ] why CSE shouldn't be a single major
