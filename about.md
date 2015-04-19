@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Software Developer with [FindTheBest](http://www.findthebest.com/) in Santa Barbara, working to create an open research platform from thousands of unstructured datasets. Completed my M.S. in Computer Science at Washington University in St. Louis.
+Software Developer in Cambridge, Massachusetts. Completed my M.S. in Computer Science at Washington University in St. Louis.
 
 My interests include web development, tools for understanding and visualizing data, WebGL, and also wind chimes. Specifically, I am passionate about using technology to create better solutions for environmental and humanitarian issues, and I am looking for ways to become more involved in doing so.
 

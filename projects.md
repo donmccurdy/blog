@@ -5,7 +5,9 @@ title: Projects
 
 ## Professional
 
-[FindTheBest](http://www.findthebest.com) — As a Senior Software Engineer with FindTheBest, I contribute to building a flexible platform for managing, exploring, and presenting data. Our platform offers tools (designed for non-technical users) to turn arbitrary datasets into fully functional vertical web applications featuring search, filtering, ranking, visualizations, supplementary written content, and interactive calculation forms. Over 1,000 such datasets can be explored through FindTheBest.com and connected websites.
+[TBA](#) — *April 2015 to present.* I am in the process of moving to Cambridge, MA. More details soon.
+
+[FindTheBest](http://www.findthebest.com) — *January 2013 to April 2015.* As a Senior Software Engineer with FindTheBest, I contribute to building a flexible platform for managing, exploring, and presenting data. Our platform offers tools (designed for non-technical users) to turn arbitrary datasets into fully functional vertical web applications featuring search, filtering, ranking, visualizations, supplementary written content, and interactive calculation forms. Over 1,000 such datasets can be explored through FindTheBest.com and connected websites.
 
 ## Personal
 
