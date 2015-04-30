@@ -1,0 +1,21 @@
+---
+layout: page
+---
+
+{% for post in site.posts %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% capture nyear %}{{ post.previous.date | date: '%Y' }}{% endcapture %}
+  {% if year != nyear or forloop.first %}
+    {% unless forloop.last and forloop.index != 1 %}
+      <h3>{{ post.date | date: '%Y' }}</h3>
+      <table class="year-group">
+    {% endunless %}
+  {% endif %}
+      <tr>
+        <td><time>{{ post.date | date:"%B %d" }}</time></td>
+        <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+      </tr>
+  {% if year != nyear or forloop.last %}
+    </table>
+  {% endif %}
+{% endfor %}
