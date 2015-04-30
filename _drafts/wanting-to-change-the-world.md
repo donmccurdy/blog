@@ -3,15 +3,13 @@ layout: post
 title: Wanting to Change the World
 ---
 
-For me, the road to full-time software development began with web design (`<frame/>` + `<table/>` *all the things!*) and building robots with the LEGO Mindstorms RIS 1.0. Software began to feel like a real career option in college, where I enjoyed a wonderful introduction to computer science at WUSTL and later encountered more compelling problems than I'd ever expected to find outside of, say, discovering a cure for cancer.
+For me, the road to full-time software development began with web design (`<frame/>` and `<table/>` *all the things!*) and building robots with the LEGO Mindstorms RIS 1.0. Software began to feel like something I'd like to do long-term in college, where I enjoyed a wonderful introduction to computer science at WUSTL.
 
-~~Coding is relevant to an incredible range of problems — scientific research, medicine, government, economic development, education, consumer technology. Practically everything.~~
+Finding compelling problems to solve has been harder: software development is relevant to an amazing range of industries and social needs. I'm thankful for that, but I also think that the ability to choose where I spend my time (without needing to worry too much about income) comes with a certain responsibility to do things that matter.
 
-Two applications that interest me in particular are creating (1) opportunities for those in developing countries and (2) environmental action and policy to prevent climate change. Arguably, economic development and climate change are [not entirely unrelated](http://www.theguardian.com/global-development/2013/sep/27/climate-change-poor-countries-ipcc).
+You should have your own ideas of what that means, but developing countries (and OECD policies as they affect the rest of the world) are very important to me. There are no quick returns here — impact is difficult to measure, policies change slowly, and even successful ventures may take years to look like anything.
 
-<hr/>
-
-~~This isn't to say that technology can solve every social challenge, or even most of them. But it certainly has a role to play, from [making government programs more effective](http://www.codeforamerica.org/) to [coordinating microloans](http://www.kiva.org/) and analyzing their effectiveness of in the developing world.~~
+> DISAMBIGUATE: companies create obvious value, CSR programs, 'tech' nonprofits, nonprofits.
 
 In practice, what I have found is that ways to get meaningfully involved in any sort of nonprofit work as a software developer or designer are very limited. I'd love to hear from someone who knows more about this, but I'll offer some possible reasons:
 
@@ -24,6 +22,10 @@ In practice, what I have found is that ways to get meaningfully involved in any 
 ~~To expand on #2, the potential career shift from traditional software engineering is not the only reason that a supporting technical role (I.T., web site maintenance) might be less appealing to a SWE than a role focused on directly addressing the problems themselves. The median salary for software developers grew from $79,500 USD in 2004 to $92,660 USD in 2013 [[1](#citations)]. The highest paid SWEs earn significantly more, at $143,540 USD, and the argument could be made that the nonprofit sector would benefit more from the donations of, and perhaps professional consulting from, those with high-paying jobs in the technology and financial industries [[2](#citations)].~~
 
 ~~This argument is imperfect — what one *could* do is not the same as what one *will* do, in practice — but it is persuasive enough to merit consideration. Or, perhaps, to recommend a strong preference for roles that actively solve a problem more than they fill a gap. Furthermore, it is a good baseline for the type of job that can keep employees motivated by their work and interested in improving. Both are worth looking for in any workplace.~~
+
+<hr/>
+
+~~Two applications that interest me in particular are creating (1) opportunities for those in developing countries and (2) environmental action and policy to prevent climate change. Arguably, economic development and climate change are [not entirely unrelated](http://www.theguardian.com/global-development/2013/sep/27/climate-change-poor-countries-ipcc).~~
 
 <hr/>
 
