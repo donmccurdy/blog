@@ -3,7 +3,8 @@
 
   {% include head.html %}
 
-  <body class="theme-base-0c">
+  <body class="theme-base-0c
+    {% unless page.is_post %} sidebar-anchored {% endunless %}">
 
     {% include sidebar.html %}
 

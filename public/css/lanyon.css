@@ -419,6 +419,26 @@ a.pagination-item:hover {
   color: #75b5aa;
 }
 
+/*
+ * Anchored Sidebar
+ *
+ * On main pages, show navigation permanently.
+ */
+
+@media (min-width: 48em) {
+  .sidebar-anchored .sidebar-toggle {
+    display: none;
+  }
+  .sidebar-anchored .wrap {
+    width: calc(100% - 14rem);
+    margin-left: 14rem;
+  }
+  .sidebar-anchored .sidebar {
+    left: 0;
+    z-index: 10;
+    visibility: visible;
+  }
+}
 
 /*
  * Custom

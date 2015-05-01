@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               Don McCurdy
-tagline:             
-description:         Thoughts about software development, technology, and social impact.
+tagline:             'Software developer in Cambridge, MA.'
+description:         'Thoughts about software development, technology, and social impact.'
 url:                 https://www.donmccurdy.com
 baseurl:             /
 paginate:            3
