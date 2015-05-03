@@ -449,3 +449,13 @@ a.pagination-item:hover {
 .footer-attribution {
   margin-bottom: 1.5rem;
 }
+
+.post-subtitle {
+  font-style: italic;
+  font-size: 1.2em;
+  line-height: 1.2em;
+}
+
+.posts .post-subtitle {
+  margin: -.5rem 0 1rem;
+}
