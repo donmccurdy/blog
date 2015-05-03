@@ -3,19 +3,21 @@ layout: post
 title: Wanting to Change the World
 ---
 
-For me, the road to full-time software development began with web design (`<frame/>` and `<table/>` *all the things!*) and building robots with the LEGO Mindstorms RIS 1.0. Software began to feel like something I'd like to do long-term in college, where I enjoyed a wonderful introduction to computer science at WUSTL.
+For me, the road to full-time software development began with web design (`<frame/>` and `<table/>` *all the things!*) and building robots with the LEGO Mindstorms RIS 1.0. Eventually, I began to consider it a long-term possibility after a few excellent introductory courses at WUSTL, and being exposed to more realistic applications, and realizing how many areas of work there are to which software is now relevant.
 
-Finding compelling problems to solve has been harder: software development is relevant to an amazing range of industries and social needs. I'm thankful for that, but I also think that the ability to choose where I spend my time (without needing to worry too much about income) comes with a certain responsibility to do things that matter.
+I am thankful for this range of possible applications, but the ability to choose where I spend my time (even without needing to worry too much about income) comes with a certain responsibility to do things that matter. This is a great and humbling problem to have, but finding compelling and important problems to solve has been much harder than simply finding a way to earn a living.
 
-You should have your own ideas of what that means, but developing countries (and OECD policies as they affect the rest of the world) are very important to me. There are no quick returns here — impact is difficult to measure, policies change slowly, and even successful ventures may take years to look like anything.
+You should have your own ideas of what that means, and I hope that you do, but for me developing countries — along with OECD trends and policies, as far as they affect the rest of the world — are critically important. There are no quick returns here — impact is difficult to measure, policies change slowly, and even successful ideas may take years to look like anything.
 
-> DISAMBIGUATE: companies create obvious value, CSR programs, 'tech' nonprofits, nonprofits.
+Most of my comments are directed at the non-profit sector, because that is where I've spent the most time looking for opportunities to get involved. To be clear, non-profits certainly do not have exclusive rights to achieving valuable results. There are companies that inherently create obvious value for society, and others that run very effective [CSR](#) programs at their own expense.
 
-In practice, what I have found is that ways to get meaningfully involved in any sort of nonprofit work as a software developer or designer are very limited. I'd love to hear from someone who knows more about this, but I'll offer some possible reasons:
+In practice, ways to get meaningfully involved in any sort of nonprofit work as a software developer or designer are very limited. I'd love to hear from someone who knows more about this, but I'll offer some possible reasons:
 
-1. From the perspective of donors and the budget, designers and developers are considered overhead, in ways that aid workers are not.
-2. Positions with broad technical requirements are often classified as I.T. roles, rather than as Software Engineer or Developer positions. To developers early in their careers, like me, this is scary. These roles imply a shift in skillsets and career direction that may be difficult to change later.
-3. NGOs are rarely engineering-driven, and so hiring is based on the criteria one might use to evaluate a contractor: portfolio, references, and past experience with the preferred technology. These are often difficult to achieve for developers inside a larger organization, who may be quick to learn new technology but have had little opportunity to build a portfolio. Side-projects and open source contributions, both good indicators to tech companies, may be difficult for a non-technical hiring manager to assess.
+- **Cost:** From the perspective of donors and the budget, developers are considered overhead, to an extent that aid workers are not. This may be a result of unrealistic wage expectations on developers' parts, but regardless there are few full-time positions (at any salary) listed.
+
+- **Unclear Responsibilities:** Technical vacancies are often classified I.T. roles, rather than as Software Engineer or Developer positions. To developers early in their careers, like me, this is scary. These roles imply a shift in skillsets and career direction that may not how an engineer feels that he/she can make the most impact. This seems to be especially true of UN organizations.
+
+- **Hiring Good Engineers is Difficult:** NGOs are rarely engineering-driven, and so hiring is based on the criteria one might use to evaluate a contractor: portfolio, references, and past experience with the preferred technology. These are often difficult to achieve for developers inside a larger organization, who may be quick to learn new technology but have had little opportunity to build a portfolio. Side-projects and open source contributions, both good indicators to tech companies, may be difficult for a non-technical hiring manager to assess.
 
 <hr/>
 
