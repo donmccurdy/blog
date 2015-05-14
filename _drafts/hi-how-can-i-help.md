@@ -4,11 +4,11 @@ title: Hi, How Can I Help?
 subtitle: What happens to developers who want to join non-profits.
 ---
 
-For me, the road to full-time software development began with web design (`<frame/>` and `<table/>` *all the things!*) and building robots with the LEGO Mindstorms RIS 1.0. Eventually, I found myself considering tech as a long-term possibility after a few excellent introductory courses at WUSTL, being exposed to more realistic applications, and realizing how many areas of work there are to which software is now relevant.
+For me, the road to full-time software development begpran with web design (`<frame/>` and `<table/>` *all the things!*) and building robots with the LEGO Mindstorms RIS 1.0. Eventually, I found myself considering tech as a long-term possibility after a few excellent introductory courses at WUSTL, being exposed to more realistic applications, and realizing how many fields there are to which software is relevant.
 
-I am thankful for this range of possible applications, but the ability to choose where I spend my time (somehow without needing to worry too much about income) comes with a certain responsibility to do things that matter. This is an exciting and humbling problem to have, but finding compelling and important problems to solve has been much harder than simply finding a way to earn a living.
+I'm thankful for the freedom to make those choices, and lucky that developers are usually paid well. The upside to optionality is the ability to choose projects that matter, which is an exciting and humbling problem to have.
 
-You will of course have your own idea of what "meaningful" is, and I hope we think about this as we're starting our careers, but for me developing countries — along with OECD trends and policies, as far as they affect the rest of the world — are critically important. There are no quick returns here: impact is difficult to measure, policies change slowly, and even successful ideas may take years to look like anything.
+The tech industry is not known for being mindful of this, and (with some key exemptions for [taco-delivering drones](http://tacocopter.com/)) really should do better. You will, I hope, have your own idea of what problems matter most. For me, developing nations — and how the policies of OECD nations affect them — are critically important. ~~There are no quick returns here: impact is difficult to measure, policies change slowly, and even successful ideas may take years to look like anything.~~
 
 Most of my comments are directed at the non-profit sector, because that is where I've spent the most time looking for opportunities to get involved. To be clear, non-profits certainly do not have exclusive rights to achieving valuable results. There are companies that inherently create obvious value for society, and others that run very effective [CSR](#) programs at their own expense.
 
@@ -26,7 +26,7 @@ It's also not impossible that as a developer, I'm misrepresenting the needs and 
 
 <hr>
 
-After all of this, I ended up with a lucky break and am now working on a project that matches my criteria extremely well. Regardless, I still hope to see greater intersection between the tech industry, non-profits, and environmental organizations, and am interested in what it will take (on all sides) to make that happen.
+After all of this, I ended up with a lucky break and am now working on a project that matches my criteria extremely well. ~~Regardless, I still hope to see greater intersection between the tech industry, non-profits, and environmental organizations, and am interested in what it will take (on all sides) to make that happen.~~
 
 <hr/>
 
