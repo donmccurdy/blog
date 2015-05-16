@@ -25,12 +25,12 @@ Hopefully we'll see more options on the App Store before too long, but there are
 
 [VRSE](http://vrse.com/) — Selection of VR films from Sundance Film Festival. One, *Clouds Over Sidra*, was created with the UN and gives a very unique look at a Syrian refugee camp.
 
-![A scene from "Clouds Over Sidra", one of the films in VRSE.](/public/media/2015/clouds-over-sidra.png)
+![A scene from "Clouds Over Sidra", one of the films in VRSE.](/public/media/2015/clouds-over-sidra.jpeg)
 *A scene from* Clouds Over Sidra, *one of the films in VRSE.*
 
 [Volvo Reality](http://www.volvocars.com/us/about/our-stories/google-cardboard) — Okay, this one might be an ad for the Volvo XC90. Whatever. The scenery is lovely, it's a neat experience, and more content will be coming out episodically.
 
-![Volvo Reality](/public/media/2015/volvo.png)
+![Volvo Reality](/public/media/2015/volvo.jpeg)
 *Volvo Reality: a quick test drive to a weekend getaway.*
 
 You can also find WebVR (WebGL-based VR) content online, most of which should work equally well on iOS or Android. Google posted several interesting examples on the [Chrome Experiments](http://vr.chromeexperiments.com/) page.
