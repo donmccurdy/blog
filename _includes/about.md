@@ -17,7 +17,7 @@ Email — [dm@donmccurdy.com](mailto:dm@donmccurdy.com)
 •
 [LinkedIn](https://www.linkedin.com/in/donmccurdy)
 •
-<a href=“https://dl.dropboxusercontent.com/u/42869844/LTS/Don%20McCurdy%20-%20Resume%202015.pdf” rel=“nofollow”>Resume</a>
+<a href="https://dl.dropboxusercontent.com/u/42869844/LTS/Don%20McCurdy%20-%20Resume%202015.pdf" rel="nofollow">Resume</a>
 
 For details on my work and involvement, see the [Projects](/projects) page.
 
