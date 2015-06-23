@@ -3,14 +3,23 @@ layout: default
 title: Home
 ---
 
+{% if paginator.page == 1 %}
+  <div class="index-about">
+    {% capture about_md %}{% include about.md %}{% endcapture %}
+    {{ about_md | markdownify }}
+  </div>
+
+  <h1 id="recent">Recent Posts</h1>
+{% endif %}
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
-    <h1 class="post-title">
+    <h2 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
-    </h1>
+    </h2>
 
     {% if post.subtitle %}
     <div class="post-subtitle">{{ post.subtitle }}</div>
@@ -31,7 +40,7 @@ title: Home
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}#recent">Newer</a>
     {% else %}
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}

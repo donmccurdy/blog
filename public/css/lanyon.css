@@ -300,6 +300,11 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
+  margin-bottom: 8em;
+}
+
+.page:last-child,
+.post:last-child {
   margin-bottom: 4em;
 }
 
@@ -458,4 +463,8 @@ a.pagination-item:hover {
 
 .posts .post-subtitle {
   margin: -.5rem 0 1rem;
+}
+
+.index-about {
+  margin-bottom: 8em;
 }
