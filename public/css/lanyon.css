@@ -445,6 +445,19 @@ a.pagination-item:hover {
   }
 }
 
+.sidebar {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-nav {
+  flex-grow: 1;
+}
+
+.sidebar-item {
+  flex-shrink: 0;
+}
+
 /*
  * Custom
  *
