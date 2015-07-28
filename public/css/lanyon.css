@@ -447,14 +447,17 @@ a.pagination-item:hover {
 
 .sidebar {
   display: flex;
+  -webkit-flex-direction: column;
   flex-direction: column;
 }
 
 .sidebar-nav {
+  -webkit-flex-grow: 1;
   flex-grow: 1;
 }
 
 .sidebar-item {
+  -webkit-flex-shrink: 0;
   flex-shrink: 0;
 }
 
