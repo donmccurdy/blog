@@ -2,9 +2,8 @@
 	var toggle = document.querySelector('.sidebar-toggle');
 	var sidebar = document.querySelector('#sidebar');
 	var checkbox = document.querySelector('#sidebar-checkbox');
-	var trigger = 'ontouchstart' in document ? 'touchstart' : 'click';
 
-	document.addEventListener(trigger, function(e) {
+	function toggleSidebar(e) {
 		var target = e.target;
 
 		if(!checkbox.checked ||
@@ -12,5 +11,8 @@
 			(target === checkbox || target === toggle)) return;
 
 		checkbox.checked = false;
-	}, false);
+	}
+
+	document.addEventListener('click', toggleSidebar, false);
+	document.addEventListener('touchstart', toggleSidebar, false);
 })(document);
