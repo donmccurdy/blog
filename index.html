@@ -14,7 +14,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  <div class="post{% if post.scrolling_code %} scrolling-code{% endif %}">
     <h2 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}

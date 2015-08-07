@@ -463,6 +463,18 @@ a.pagination-item:hover {
 }
 
 /*
+ * Syntax Highlighting
+ *
+ * Add scrolling option for syntax highlighting.
+ */
+
+.scrolling-code pre {
+  overflow-x: auto;
+  white-space: pre;
+  word-wrap: normal;
+}
+
+/*
  * Custom
  *
  * More significant changes to the original theme.
