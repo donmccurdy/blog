@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using ES6 Generators with Callback-based Libraries
+scrolling_code: true
 ---
 
 ES6 introduces generators (and `yield` expressions) to JavaScript. Kyle Simpson has written [a nice introduction to generators](http://davidwalsh.name/es6-generators), if you're looking for more about how they work.
@@ -33,7 +34,7 @@ var gizmos = gizmoService.all();
 console.log(gizmos); // NULL
 ```
 
-Well, that doesn't work. We need to return a value at `[2]`, but the callback (`[1]`) hasn't been invoked yet. Native Promises (not polyfills, unfortunately) can solve this problem.
+Well, that doesn't work. We need to return a value at `[2]`, but the callback at `[1]` hasn't been invoked yet. Native Promises (not polyfills, unfortunately) can solve this problem.
 
 > NOTE: As of this writing, generators in NodeJS only work with the `--harmony` flag. I'm using NPM v0.12.0.
 
@@ -47,9 +48,8 @@ var gizmoService = {
 	 * List all Gizmos.
 	 */
 	all: function *() {
-		// Return a new Promise ...
+		// Return a new Promise
 		return new Promise(function(resolve, reject) {
-			// ... make the async call ...
 			this.db.all(function (error, result) {
 				// ... and resolve or reject with callback result.
 				if (error) {
@@ -72,7 +72,6 @@ Or, to catch possible DB-level errors:
 ```javascript
 try {
 	var gizmos = yield gizmoService.getAll();
-	console.log(gizmos); // [ ... gizmos ... ]
 } catch (error) {
 	console.log('Oh, it broke.');
 }
