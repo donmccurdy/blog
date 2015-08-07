@@ -6,6 +6,7 @@
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
+    <p>By <a href="{{ site.author.url }}" target="_blank">{{ site.author.handle }}</a>.</p>
   </div>
 
   <nav class="sidebar-nav">
@@ -29,7 +30,6 @@
   </nav>
 
   <div class="sidebar-item">
-    <div>By <a href="{{ site.author.url }}" target="_blank">{{ site.author.handle }}</a>.</div>
-    <div><a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">Creative Commons CC0</a>, {{ site.time | date: '%Y' }}.</div>
+    <a href="http://creativecommons.org/publicdomain/zero/1.0/" target="_blank">Creative Commons CC0</a>, {{ site.time | date: '%Y' }}.
   </div>
 </div>
