@@ -7,7 +7,7 @@ title: Projects
 
 [Google](http://www.google.com/about/careers/) — *May 2015 to present.* Software engineer working with the Access and Energy team.
 
-[FindTheBest](http://www.findthebest.com) — *January 2013 to April 2015.* As a Senior Software Engineer with FindTheBest, I contribute to building a flexible platform for managing, exploring, and presenting data. Our platform offers tools (designed for non-technical users) to turn arbitrary datasets into fully functional vertical web applications featuring search, filtering, ranking, visualizations, supplementary written content, and interactive calculation forms. Over 1,000 such datasets can be explored through FindTheBest.com and connected websites.
+[FindTheBest](http://www.findthebest.com) — *January 2013 to April 2015.* As a Senior Software Engineer with FindTheBest, I contribute to building a flexible platform for managing, exploring, and presenting data. Our platform offers tools (designed for non-technical users) to turn arbitrary datasets into fully functional vertical web applications featuring search, filtering, ranking, visualizations, supplementary written content, and interactive calculation forms. Over 1,000 datasets can be explored through FindTheBest.com and connected websites.
 
 ## Personal
 
@@ -37,7 +37,3 @@ title: Projects
 
 *Convex Hull Demo:*
 ![Screenshot of Convex Hull Demo](/public/media/projects/merge-hull.gif)
-
-## Other Contributions
-
-*TBD.*
