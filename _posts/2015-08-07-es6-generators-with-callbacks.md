@@ -22,7 +22,7 @@ var gizmoService = {
 	 * List all Gizmos.
 	 */
 	all: function () {
-		this.db.all(function (error, result) {
+		db.all(function (error, result) {
 			// [1] ???
 		});
 		// [2] ???
@@ -50,7 +50,7 @@ var gizmoService = {
 	all: function *() {
 		// Return a new Promise
 		return new Promise(function(resolve, reject) {
-			this.db.all(function (error, result) {
+			db.all(function (error, result) {
 				// ... and resolve or reject with callback result.
 				if (error) {
 					reject(error);
@@ -58,7 +58,7 @@ var gizmoService = {
 					resolve(result);
 				}
 			});
-		}.bind(this));
+		});
 	}
 };
 
