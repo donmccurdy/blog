@@ -23,6 +23,15 @@
       <div class="container content">
         {{ content }}
       </div>
+
+      {% if page.is_post %}
+      <div class="container">
+        <hr>
+        <footer class="footer-attribution">
+          Written by <a href="{{ site.author.url }}">{{ site.author.handle }}</a>.
+        </footer>
+      </div>
+      {% endif %}
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
