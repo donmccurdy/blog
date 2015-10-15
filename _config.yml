@@ -19,8 +19,8 @@ paginate:            3
 # About/contact
 author:
   name:              Don McCurdy
-  handle:            '@don_mccurdy'
-  url:               https://twitter.com/don_mccurdy
+  handle:            '@donrmccurdy'
+  url:               https://twitter.com/donrmccurdy
   github:            https://github.com/donmccurdy
   email:             dm@donmccurdy.com
 
