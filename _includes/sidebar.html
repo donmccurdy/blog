@@ -5,8 +5,9 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
-    <p>{{ site.description }}</p>
-    <p>By <a href="{{ site.author.url }}" target="_blank">{{ site.author.handle }}</a>.</p>
+    <p>Twitter: <a href="{{ site.author.twitter_url }}" target="_blank">{{ site.author.twitter_alias }}</a></p>
+    <p>GitHub: <a href="{{ site.author.github_url }}" target="_blank">{{ site.author.github_alias }}</a></p>
+    <p>Email: <a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a></p>
   </div>
 
   <nav class="sidebar-nav">

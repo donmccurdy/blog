@@ -19,9 +19,10 @@ paginate:            3
 # About/contact
 author:
   name:              Don McCurdy
-  handle:            '@donrmccurdy'
-  url:               https://twitter.com/donrmccurdy
-  github:            https://github.com/donmccurdy
+  twitter_alias:     '@donrmccurdy'
+  twitter_url:       https://twitter.com/donrmccurdy
+  github_alias:      '@donmccurdy'
+  github_url:        https://github.com/donmccurdy
   email:             dm@donmccurdy.com
 
 # Formatting
