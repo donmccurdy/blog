@@ -4,9 +4,9 @@ highlighter:         pygments
 
 # Permalinks
 #
-# Use of `relative_permalinks` ensures post links from the index work properly.
+# https://github.com/poole/lanyon/issues/124
 permalink:           pretty
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title:               Don McCurdy
@@ -15,6 +15,7 @@ description:         'Personal projects and writing on the web, software develop
 url:                 https://www.donmccurdy.com
 baseurl:             /
 paginate:            3
+paginate_path:      'page:num'
 
 # About/contact
 author:
@@ -27,7 +28,11 @@ author:
 
 # Formatting
 redcarpet:
-  extensions:        ['smart', 'strikethrough', 'tables'] 
+  extensions:        ['smart', 'strikethrough', 'tables']
+
+# Dependencies
+gems:
+- jekyll-paginate
 
 # Custom vars
 version:             1.0.0
