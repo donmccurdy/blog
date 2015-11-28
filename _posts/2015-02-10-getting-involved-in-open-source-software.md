@@ -2,8 +2,8 @@
 layout: post
 title: Getting Involved in Open Source Software
 tags:
-- Developer
-- Open Source
+- developer
+- open source
 ---
 
 Contributing to open source is something I am improving at, along with finding enjoyable ways to get involved. I’m not where I want to be yet, but here are some things that have made the process easier.
