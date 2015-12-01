@@ -5,7 +5,7 @@ title: Projects
 
 ## Professional
 
-[Google](http://www.google.com/about/careers/) — *May 2015 to present.* Software engineer working with the Access and Energy team.
+[Google](http://www.google.com/about/careers/) — *May 2015 to present.* Software Engineer. Making home solar more accessible through [Project Sunroof](https://www.google.com/get/sunroof).
 
 [Graphiq](https://www.graphiq.com) — *January 2013 to April 2015.* As a Senior Software Engineer with Graphiq (previously FindTheBest), I helped build a platform for managing, exploring, and presenting data. Graphiq maintains over 1,000 datasets as interconnected web applications featuring search, context-rich visualizations, filtering, and other interactive tools.
 
