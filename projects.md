@@ -11,7 +11,7 @@ title: Projects
 
 ## Personal
 
-[Powerline.io](https://github.com/donmccurdy/powerline) — *In Progress*. Web application for managing Twitter lists quickly through a clean and simple interface. The project began out of frustration with available tools for sorting my Twitter contacts by different interests, and has gradually evolved into a full list-management application.
+[ProxyControls.js](https://proxy-controls.donmccurdy.com) — Connect input devices from your desktop to your mobile phone with WebRTC. This project provides a set of tools for developers interested in quickly prototyping interactive games/scenes in WebVR using Mozilla's [A-Frame](https://aframe.io/) library. Works with [Google Cardboard](http://www.google.com/get/cardboard/), and uses Node.js, WebSockets, WebRTC, and the HTML5 Gamepad API.
 
 [Input Tokenizer](/input-tokenizer) — jQuery plugin that allows a user to type keywords, which will be broken up into tags and displayed similarly to tagging a post on Tumblr or Stack-Overflow. ([Demo](/input-tokenizer/))
 
@@ -27,7 +27,7 @@ title: Projects
 
 [THREE.MapControls](https://github.com/donmccurdy/THREE.MapControls) — Camera controls for THREE.js. Began as a few modifications to THREE.TrackballControls, in order to provide interactions suitable for flat scenes: panning, zooming, and limited rotation.
 
-[Leap Quest](https://github.com/donmccurdy/leap-quest) — *Incomplete*. Brief and ill-advised attempt to build a multiplayer micro-RPG from scratch with THREE.js, Node.js, WebSockets, and the LeapJS API.
+[Powerline.io](https://github.com/donmccurdy/powerline) — *Incomplete*. Web application for managing Twitter lists quickly through a clean and simple interface. The project began out of frustration with available tools for sorting my Twitter contacts by different interests, and has gradually evolved into a full list-management application.
 
 ## Academic
 
