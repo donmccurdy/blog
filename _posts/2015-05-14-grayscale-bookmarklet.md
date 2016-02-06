@@ -7,7 +7,7 @@ A bit of code that can be used to convert any webpage (or part of a page) to gra
 
 ## CSS
 
-```css
+{% highlight css %}
 body {
   /* IE */
   filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
@@ -18,10 +18,11 @@ body {
   /* Firefox */
   filter: grayscale(1);
 }
-```
+{% endhighlight %}
+
 ## JavaScript
 
-```javascript
+{% highlight javascript %}
 (function () {
   var body = document.body;
   body.style['filter'] = 'progid:DXImageTransform.Microsoft.BasicImage(grayscale=1)';
@@ -30,7 +31,7 @@ body {
     body.style['filter'] = 'grayscale(1)';
   }
 }());
-```
+{% endhighlight %}
 
 ## Bookmarklet
 

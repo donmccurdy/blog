@@ -14,25 +14,26 @@ I ran into this problem while trying out [Koa](http://koajs.com) (web framework,
 
 Here's a basic fetch-things-from-a-database example:
 
-```javascript	
+{% highlight javascript %}
 var db = new ArbitraryDB();
 
 var gizmoService = {
-	/**
-	 * List all Gizmos.
-	 */
-	all: function () {
-		db.all(function (error, result) {
-			// [1] ???
-		});
-		// [2] ???
-	}
+    /**
+     * List all Gizmos.
+     */
+    all: function () {
+        db.all(function (error, result) {
+            // [1] ???
+        });
+        // [2] ???
+    }
 };
 
-// Application code. Let's protect this part from nasty callbacks.
+// Application code.
+// Let's protect this part from nasty callbacks.
 var gizmos = gizmoService.all();
 console.log(gizmos); // NULL
-```
+{% endhighlight %}
 
 Well, that doesn't work. We need to return a value at `[2]`, but the callback at `[1]` hasn't been invoked yet. Native Promises (not polyfills, unfortunately) can solve this problem.
 
@@ -40,41 +41,41 @@ Well, that doesn't work. We need to return a value at `[2]`, but the callback at
 
 An updated example:
 
-```javascript
+{% highlight javascript %}
 var db = new ArbitraryDB();
 
 var gizmoService = {
-	/**
-	 * List all Gizmos.
-	 */
-	all: function *() {
-		// Return a new Promise
-		return new Promise(function(resolve, reject) {
-			db.all(function (error, result) {
-				// ... and resolve or reject with callback result.
-				if (error) {
-					reject(error);
-				} else {
-					resolve(result);
-				}
-			});
-		});
-	}
+    /**
+     * List all Gizmos.
+     */
+    all: function *() {
+        // Return a new Promise
+        return new Promise(function(resolve, reject) {
+            db.all(function (error, result) {
+                // ... and resolve or reject with the result.
+                if (error) {
+                    reject(error);
+                } else {
+                    resolve(result);
+                }
+            });
+        });
+    }
 };
 
 // Application code.
 var gizmos = yield gizmoService.all();
 console.log(gizmos); // [ ... gizmos ... ]
-```
+{% endhighlight %}
 
 Or, to catch possible DB-level errors:
 
-```javascript
+{% highlight javascript %}
 try {
-	var gizmos = yield gizmoService.getAll();
+    var gizmos = yield gizmoService.getAll();
 } catch (error) {
-	console.log('Oh, it broke.');
+    console.log('Oh, it broke.');
 }
-```
+{% endhighlight %}
 
 And that's it! The rest of your application can continue without worrying about the callbacks tucked away in a dependency.
