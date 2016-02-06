@@ -14,7 +14,7 @@ I ran into this problem while trying out [Koa](http://koajs.com) (web framework,
 
 Here's a basic fetch-things-from-a-database example:
 
-{% highlight javascript %}
+```javascript
 var db = new ArbitraryDB();
 
 var gizmoService = {
@@ -33,7 +33,7 @@ var gizmoService = {
 // Let's protect this part from nasty callbacks.
 var gizmos = gizmoService.all();
 console.log(gizmos); // NULL
-{% endhighlight %}
+```
 
 Well, that doesn't work. We need to return a value at `[2]`, but the callback at `[1]` hasn't been invoked yet. Native Promises (not polyfills, unfortunately) can solve this problem.
 
@@ -41,7 +41,7 @@ Well, that doesn't work. We need to return a value at `[2]`, but the callback at
 
 An updated example:
 
-{% highlight javascript %}
+```javascript
 var db = new ArbitraryDB();
 
 var gizmoService = {
@@ -66,16 +66,16 @@ var gizmoService = {
 // Application code.
 var gizmos = yield gizmoService.all();
 console.log(gizmos); // [ ... gizmos ... ]
-{% endhighlight %}
+```
 
 Or, to catch possible DB-level errors:
 
-{% highlight javascript %}
+```javascript
 try {
     var gizmos = yield gizmoService.getAll();
 } catch (error) {
     console.log('Oh, it broke.');
 }
-{% endhighlight %}
+```
 
 And that's it! The rest of your application can continue without worrying about the callbacks tucked away in a dependency.
