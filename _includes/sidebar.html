@@ -7,7 +7,7 @@
   <div class="sidebar-item">
     <p>Twitter: <a href="{{ site.author.twitter_url }}" target="_blank">{{ site.author.twitter_alias }}</a></p>
     <p>GitHub: <a href="{{ site.author.github_url }}" target="_blank">{{ site.author.github_alias }}</a></p>
-    <p>Email: <a href="mailto:{{ site.author.email }}" target="_blank">{{ site.author.email }}</a></p>
+    <p>Email: <a href="#" data-obf="{{ site.author.email | split: "" | reverse | join: "" }}"></a></p>
   </div>
 
   <nav class="sidebar-nav">
