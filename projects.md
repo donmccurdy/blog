@@ -13,7 +13,7 @@ title: Projects
 
 [ProxyControls.js](https://proxy-controls.donmccurdy.com) — Connect input devices from your desktop to your mobile phone with WebRTC. This project provides a set of tools for developers interested in quickly prototyping interactive games/scenes in WebVR using Mozilla's [A-Frame](https://aframe.io/) library. Works with [Google Cardboard](http://www.google.com/get/cardboard/), and uses Node.js, WebSockets, WebRTC, and the HTML5 Gamepad API.
 
-[Input Tokenizer](/input-tokenizer) — jQuery plugin that allows a user to type keywords, which will be broken up into tags and displayed similarly to tagging a post on Tumblr or Stack-Overflow. ([Demo](/input-tokenizer/))
+[Input Tokenizer](https://donmccurdy.github.io/input-tokenizer/) — jQuery plugin that allows a user to type keywords, which will be broken up into tags and displayed similarly to tagging a post on Tumblr or Stack-Overflow. ([Demo](https://donmccurdy.github.io/input-tokenizer/))
 
 *Input Tokenizer:*
 ![Screenshot of Input Tokenizer](/public/media/projects/input-tokenizer.png)
