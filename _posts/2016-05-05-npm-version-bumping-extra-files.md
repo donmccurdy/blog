@@ -55,11 +55,9 @@ With those four tasks, `npm version patch` will now:
 2. Build your *dist/* scripts.
 3. Bump the version in *package.json*.
 4. Bump the version in *README.md*.
-4. Commit *package.json*, *README.md*, and the *dist/* output.
-5. Create a new tag.
-6. Push the commit and tag to GitHub.
-7. Publish the new version on NPM.
+5. Commit *package.json*, *README.md*, and the *dist/* output.
+6. Create a new tag.
+7. Push the commit and tag to GitHub.
+8. Publish the new version on NPM.
 
-With that, NPM will update *README.md* along with the dist scripts, and I don't have to worry about any of it.
-
-For more details, see the [full documentation on NPM scripts](https://docs.npmjs.com/misc/scripts).
+For more on how this works, see the [full documentation on NPM scripts](https://docs.npmjs.com/misc/scripts).
